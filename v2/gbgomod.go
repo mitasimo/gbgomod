@@ -5,13 +5,13 @@ import (
 	_ "github.com/valyala/fasthttp"
 )
 
-type One struct {
+type Three struct {
 	Field1, Field2 string
 }
 
-func NewOne() *One {
+func NewThree() *Three {
 
-	return &One{
+	return &Three{
 		Field1: "11111gfd",
 		Field2: "22222tre",
 	}
