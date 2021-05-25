@@ -1,4 +1,4 @@
-module github.com/mitasimo/gbgomod
+module github.com/mitasimo/gbgomod/v2
 
 go 1.16
 
