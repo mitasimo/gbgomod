@@ -1,3 +1,5 @@
+// bggomod is a homework for lesson3
+
 package gbgomod
 
 import (
