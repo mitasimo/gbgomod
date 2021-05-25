@@ -18,7 +18,7 @@ func NewOne() *One {
 }
 
 type Two struct {
-     Fiel1 string
+     Field1 string
      }
 
 func NewTwo() *Two{
