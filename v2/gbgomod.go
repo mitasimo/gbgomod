@@ -18,12 +18,11 @@ func NewThree() *Three {
 }
 
 type Two struct {
-     Fiel1 string
-     }
+	Fiel1 string
+}
 
-func NewTwo() *Two{
-     return &Two{
-     	    Field1: "val1",
-	    }
-	    }
-	    
+func NewTwo() *Two {
+	return &Two{
+		Field1: "val1",
+	}
+}
