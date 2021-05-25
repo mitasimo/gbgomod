@@ -12,7 +12,7 @@ type One struct {
 func NewOne() *One {
 
 	return &One{
-		Field1: "gfd",
-		Field2: "tre",
+		Field1: "11111gfd",
+		Field2: "22222tre",
 	}
 }
